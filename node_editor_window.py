@@ -14,7 +14,6 @@ class node_editor_window(QWidget):
         self.layout=QVBoxLayout()
         self.setLayout(self.layout)
 
-
         # creates Graphic scene
         self.grScene= QDMGraphicsScene()
 

@@ -4,7 +4,6 @@ from PyQt5.QtGui import *
 import math
 
 # This class sets up the graphics of the main scene in the app
-# if stupid:
 
 class QDMGraphicsScene(QGraphicsScene):
     def __init__(self, parent=None):
