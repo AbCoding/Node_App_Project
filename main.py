@@ -8,3 +8,6 @@ if __name__ == "__main__":
     wnd = node_editor_window()
 
     sys.exit(app.exec_())
+
+
+# eric is fat
